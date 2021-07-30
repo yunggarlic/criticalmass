@@ -63,7 +63,7 @@ Agamari is the product of Fullstack Academy alumni a few years back. It heavily 
 ## Breathing Dots
 https://codesandbox.io/s/breathing-dots-checkpoint-6-lp81i
 
-This complex animation is a huge inspiration to me, not only because it is mesmerizing and beautiful, but because the process isn't so terribly complex itself. There are a lot of these types of animations that I browse on codesandbox just to see what you can do with a 3D package and some math.
+This complex animation is a huge inspiration to me, not only because it is mesmerizing and beautiful, but because the code isn't so terribly complex itself (perhaps by virtue of the excellent inline documentation throughout). There are a lot of these types of animations that I browse on codesandbox just to see what you can do with a 3D package and some math.
 
 ## Decentraland
 https://github.com/decentraland/
