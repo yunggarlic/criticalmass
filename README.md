@@ -52,3 +52,28 @@ The backend is straight forward, using Express to spin up a server and deliver s
 
 #### Featured Tech
 React, React Spring, three.js, react-three-fiber, Material-UI, Node, ExpressJS
+
+# Inspiration
+
+## Agamari
+https://github.com/kentywang/Agamari
+
+Agamari is the product of Fullstack Academy alumni a few years back. It heavily inspired my capstone project group while we were brainstorming ideas, and was pretty much used as a blueprint to understand how the technologies we were using could fit together. Specifically, we knew that we had to use WebSockets in order to include multiplayer functionality. Dissecting Agamari showed us how data was bouncing between emitters and eventually we were able to take those same principles and apply it to our synthesizer.
+
+## Breathing Dots
+https://codesandbox.io/s/breathing-dots-checkpoint-6-lp81i
+
+This complex animation is a huge inspiration to me, not only because it is mesmerizing and beautiful, but because the process isn't so terribly complex itself. There are a lot of these types of animations that I browse on codesandbox just to see what you can do with a 3D package and some math.
+
+## Decentraland
+https://github.com/decentraland/
+
+I only recently stumbled upon Decentraland but this umbrella of technology is a great intersection of my interests. Decentraland is a virtual world where you can own virtual property including land and clothing using blockchain technology. Users create avatars and interact with others in a space solely equipped by user-generated content. From a technical perspective, I'm incredibly inspired by the melding of game animation and blockchain technology and see this as the small-scale primordial version of what verifiable digital ownership looks like within our ever-decentralizing world. 
+
+# Focus
+
+If I were given time and resources to learn and build what I wanted, I would start out with a non-fungible token marketplace where users are able to buy, sell, and exchange NFT's on the Ethereum blockchain using their digital wallets. My first orders of business would be to research some other non-fungible token marketplaces like Decentraland's and learn Solidity, the language that targets Ethereum's virtual machine, and build out a shell for what the marketplace is to look like. The majority of my time will be spent learning how smart contracts and web development work in tandem.
+
+# Coding Exercise
+https://q7d9y.csb.app/
+https://codesandbox.io/s/tim-ferrari-2021-internship-exercise-menu-forked-q7d9y
