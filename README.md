@@ -23,7 +23,7 @@ Backend: Episodes are pulled in by an Axios request and parsed from the show's R
 #### Featured Tech
 React, Material-UI, Node, ExpressJS, Redis, Axios
 
-## aether
+## Aether
 https://aether-leo.herokuapp.com/
 ### <img width="500" alt="Screen Shot 2021-02-16 at 6 18 48 PM" src="https://user-images.githubusercontent.com/71295717/127692310-bf93188e-716c-4857-bc6c-0758f5a9079d.png">
 
