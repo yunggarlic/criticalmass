@@ -1,4 +1,4 @@
-# Tim Ferrari Work Examples to Critical Mass
+# Tim Ferrari Work Examples
 
 ## Statesmen Podcast Website 
 <a href="http://statesmenpodcast.com">statesmenpodcast.com</a>
