@@ -73,8 +73,3 @@ I only recently stumbled upon Decentraland but this umbrella of technology is a 
 # Focus
 
 If I were given time and resources to learn and build what I wanted, I would look to expand my knowledge into blockchain technology. I would start out by designing a non-fungible token marketplace where users are able to buy, sell, and exchange NFT's on the Ethereum blockchain using their digital wallets. My first orders of business would be to research some other non-fungible token marketplaces like Decentraland's and learn Solidity, the language that targets Ethereum's virtual machine, and build out a shell for what the marketplace is to look like. The majority of my time will be spent learning how smart contracts and web development work in tandem.
-
-# Coding Exercise
-https://q7d9y.csb.app/
-<br />
-https://codesandbox.io/s/tim-ferrari-2021-internship-exercise-menu-forked-q7d9y
